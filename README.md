@@ -64,7 +64,7 @@
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-250+-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Codesphere_2003/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1274-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Codesphere_2003)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1363-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Codesphere_2003)
 
 </div>
 
